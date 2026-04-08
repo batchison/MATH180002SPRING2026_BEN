@@ -1,0 +1,12 @@
+INFO    : Staging deployment according to strategy pelican_default
+INFO    : Staging `web` at `/workspaces/MATH180002SPRING2026_BEN/output/stage/course`.
+WARNING : No build for `slides` was found in the directory `/workspaces/MATH180002SPRING2026_BEN/output/slides`.Try running `pretext build slides` to build this component first.
+INFO    : Skipping this target for now.
+WARNING : No build for `slides-annotated` was found in the directory `/workspaces/MATH180002SPRING2026_BEN/output/slides-annotated`.Try running `pretext build slides-annotated` to build this component first.
+INFO    : Skipping this target for now.
+ERROR   : Pelican is not installed. Please install Pelican to use this feature.
+INFO    : Preparing to deploy from active `main` git branch.
+
+INFO    : Changes to project source since last commit detected.
+INFO    : Committing these changes to local Git repository.
+
